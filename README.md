@@ -12,8 +12,8 @@ I will update this 'warning'.)
 
 If you just want one, see the PDF file for the digikey order IDs of the parts
 and here is a place where you can order 3 of these (bare boards) for $7.10 
-including shipping (I don't get a penny of that by the way.  
-I just think it is a decent deal):
+including shipping (I don't get a penny of that by the way.  I just think it 
+is a decent deal):
 
 https://oshpark.com/shared_projects/bl3Oo3GN
 
