@@ -6,7 +6,9 @@ These are the source files for a KiCad project featured in a tutorial here:
 https://www.youtube.com/playlist?list=PL3by7evD3F51fKkyrUbH-PCdwPCWc9F8a
 
 If you want to make one of these for yourself you can use this design as
-it is or and alter it and make it better.
+it is or and alter it and make it better.  (I havn't tested this design
+yet.  But I have ordered some and will do so soon.  At that point
+I will update this 'warning'.)
 
 If you just want one, see the PDF file for the digikey order IDs of the parts
 and here is a place where you can order 3 of these (bare boards) for $7.10 
