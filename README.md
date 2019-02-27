@@ -15,7 +15,7 @@ and here is a place where you can order 3 of these (bare boards) for $6.30
 including shipping (I don't get a penny of that by the way.  I just think it 
 is a decent deal):
 
-https://oshpark.com/shared_projects/cjCDS0jC
+https://oshpark.com/shared_projects/D6qLABBx
 
 Here are some images of the release V2 (USB-powered) board:
 
